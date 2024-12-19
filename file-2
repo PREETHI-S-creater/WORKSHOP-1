@@ -1,3 +1,5 @@
 # This program prints Hello, world!
 
 print('Hello, world!')
+// This is a comment
+System.out.println("Hello World");
